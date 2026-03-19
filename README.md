@@ -49,7 +49,7 @@ We use a **High-Density UI** to present data as actionable intelligence:
 ### 1. Clone & Install
 Ensure you have Python installed, then run:
 ```bash
-git clone [https://github.com/TGandhi5473/npia_archiver.git](https://github.com/TGandhi5473/npia_archiver.git)
-cd npia_archiver
+git clone https://github.com/idiotngr-star/npia_scraper
+cd npia_scraper
 pip install -r requirements.txt
 streamlit run main.py
