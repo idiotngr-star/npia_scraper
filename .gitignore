@@ -1,0 +1,22 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# --- Database (The Scout's Vault) ---
+# We ignore the actual data files, but keep the code to create them.
+*.db
+*.sqlite3
+*.db-journal
+
+# --- Streamlit Specific ---
+.streamlit/secrets.toml
+.streamlit/static/
+
+# --- OS/IDE Specific ---
+.DS_Store
+.vscode/
+.history/

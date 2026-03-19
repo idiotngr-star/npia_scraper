@@ -1,0 +1,7 @@
+streamlit
+pandas
+httpx
+beautifulsoup4
+lxml
+plotly
+deep-translator
